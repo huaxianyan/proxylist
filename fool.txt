@@ -47,5 +47,6 @@
 ||ravenjs.com
 ||mobage.jp
 ||granbluefantasy.jp
+||game8.jp
 ||enza.fun
 ||shiny.fun
