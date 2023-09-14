@@ -50,3 +50,4 @@
 ||game8.jp
 ||enza.fun
 ||shiny.fun
+||gstatic.com
