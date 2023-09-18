@@ -51,3 +51,4 @@
 ||enza.fun
 ||shiny.fun
 ||gstatic.com
+||rpglogs.com
