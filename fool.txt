@@ -52,3 +52,4 @@
 ||shiny.fun
 ||gstatic.com
 ||rpglogs.com
+||fflogs.com
