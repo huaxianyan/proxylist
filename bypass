@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-KEYWORD,tracker
+  - DOMAIN-KEYWORD,announce_peer
+  - DOMAIN-KEYWORD,BitTorrent
+  - DOMAIN-KEYWORD,find_node
+  - DOMAIN-KEYWORD,get_peers
+  - DOMAIN-KEYWORD,info_hash
+  - DOMAIN-KEYWORD,peer_id=
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,announce.php?passkey=
