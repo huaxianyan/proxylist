@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-KEYWORD,teamspeak
   - DOMAIN,mikanani.me
+  - DOMAIN-KEYWORD,obsproject
