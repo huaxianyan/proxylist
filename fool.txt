@@ -16,6 +16,16 @@
 ||ssl-images-amazon.com
 ||amazon.co.jp
 ||amazonaws.com
+! ChatGPT
+||ai.com
+||openai.com
+||chat.openai.com.cdn.cloudflare.net
+||openaiapi-site.azureedge.net
+||openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+||openaicomproductionae4b.blob.core.windows.net
+||production-openaicom-storage.azureedge.net
+||oaistatic.com
+||oaiusercontent.com
 ! Sony
 ||sonyentertainmentnetwork.com
 ||playstation.com
@@ -57,4 +67,3 @@
 ||carbuncleplushy.com
 ||mikanani.me
 ||pandora.fugusekai.com
-||cdn.oaistatic.com
