@@ -26,6 +26,7 @@
 ||production-openaicom-storage.azureedge.net
 ||oaistatic.com
 ||oaiusercontent.com
+||chatgpt.com
 ! Sony
 ||sonyentertainmentnetwork.com
 ||playstation.com
