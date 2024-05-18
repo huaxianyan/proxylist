@@ -5,17 +5,20 @@
 ! Last.fm
 ||lastfm.freetls.fastly.net
 ||last.fm
+
 ! SE
 ||secure.square-enix.com
 ||xivdb.com
 ||finalfantasyxiv.com
 ||square-enix.com
 ||sqex.to
+
 ! Amazon
 ||amazon.jp
 ||ssl-images-amazon.com
 ||amazon.co.jp
 ||amazonaws.com
+
 ! ChatGPT
 ||ai.com
 ||openai.com
@@ -27,9 +30,11 @@
 ||oaistatic.com
 ||oaiusercontent.com
 ||chatgpt.com
+
 ! Sony
 ||sonyentertainmentnetwork.com
 ||playstation.com
+
 ! Others
 ||mushroomtrack.com
 ||orzx.im
