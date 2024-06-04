@@ -74,3 +74,6 @@
 ||mikanani.me
 ||zerotier.com
 ||x.com
+||mercdn.net
+||mercari.jp
+||mercari.com
