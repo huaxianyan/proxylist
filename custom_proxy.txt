@@ -3,10 +3,6 @@ payload:
   - DOMAIN,mikanani.me
   - DOMAIN,packages.synocommunity.com
   - DOMAIN-KEYWORD,obsproject
-  - DOMAIN-KEYWORD,long.wechat
-  - DOMAIN-KEYWORD,short.wechat
-  - DOMAIN-KEYWORD,long.weixin
-  - DOMAIN-KEYWORD,short.weixin
 
   # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
