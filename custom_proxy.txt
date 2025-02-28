@@ -3,6 +3,7 @@ payload:
   - DOMAIN,mikanani.me
   - DOMAIN,packages.synocommunity.com
   - DOMAIN-KEYWORD,obsproject
+  - DOMAIN,download-installer.cdn.mozilla.net
 
   # > ChatGPT
   - DOMAIN-SUFFIX,ai.com
