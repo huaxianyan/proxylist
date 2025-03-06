@@ -84,3 +84,4 @@
 ||butlerfortrello.com
 ||unsplash.com
 ||mirapri.com
+||githubassets.com
