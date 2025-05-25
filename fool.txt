@@ -85,3 +85,4 @@
 ||unsplash.com
 ||mirapri.com
 ||githubassets.com
+||googleapis.cn
