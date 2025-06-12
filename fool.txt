@@ -85,5 +85,6 @@
 ||unsplash.com
 ||mirapri.com
 ||githubassets.com
-||googleapis.cn
+||fonts.googleapis.cn
 ||milkywayidle.com
+||fonts.googleapis.com
