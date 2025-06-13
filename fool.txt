@@ -88,3 +88,4 @@
 ||fonts.googleapis.cn
 ||milkywayidle.com
 ||fonts.googleapis.com
+||lalachievements.com
