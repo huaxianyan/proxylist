@@ -89,3 +89,4 @@
 ||milkywayidle.com
 ||fonts.googleapis.com
 ||lalachievements.com
+||duolingo.com
