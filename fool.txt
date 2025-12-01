@@ -90,3 +90,4 @@
 ||fonts.googleapis.com
 ||lalachievements.com
 ||duolingo.com
+||cloudfront.net
