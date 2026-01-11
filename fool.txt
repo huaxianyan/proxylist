@@ -91,3 +91,4 @@
 ||lalachievements.com
 ||duolingo.com
 ||cloudfront.net
+||universalis.app
