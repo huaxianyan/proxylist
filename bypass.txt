@@ -8,3 +8,4 @@ payload:
   - DOMAIN-KEYWORD,peer_id=
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,announce.php?passkey=
+  - DOMAIN,_checkdns.home-assistant.io
