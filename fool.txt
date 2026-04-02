@@ -89,6 +89,5 @@
 ||milkywayidle.com
 ||fonts.googleapis.com
 ||lalachievements.com
-||duolingo.com
 ||cloudfront.net
 ||universalis.app
